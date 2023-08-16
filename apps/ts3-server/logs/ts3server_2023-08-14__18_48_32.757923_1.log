@@ -1,0 +1,9 @@
+2023-08-14 18:48:33.378343|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2023-08-14 18:48:33.378343|WARNING |VirtualServer |1  |--------------------------------------------------------
+2023-08-14 18:48:33.378343|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2023-08-14 18:48:33.379345|WARNING |VirtualServer |1  |token=S73Etr461nlDCJgvxySz07aRZ6GJCh4oYGVhORUa
+2023-08-14 18:48:33.379345|WARNING |VirtualServer |1  |--------------------------------------------------------
+2023-08-14 18:50:00.181057|INFO    |VirtualServer |1  |client 'Broulf'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2023-08-14 18:50:00.183046|INFO    |VirtualServer |1  |client 'Broulf'(id:3) used privilege key 'S73Etr461nlDCJgvxySz07aRZ6GJCh4oYGVhORUa' and was added to servergroup 'Server Admin'(id:6)
+2023-08-14 18:52:14.068707|INFO    |VirtualServer |1  |client 'Broulf'(id:3) added privilege key for servergroup 'Server Admin'(id:6)
+2023-08-14 18:53:10.031349|INFO    |VirtualServerBase|1  |stopped

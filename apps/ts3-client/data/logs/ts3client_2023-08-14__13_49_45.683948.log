@@ -1,0 +1,94 @@
+
+
+==================================================================================================================================
+
+2023-08-14 18:49:45.683948|INFO    |              |   |TeamSpeak Client 3.3.2 (2019-08-25 21:13:34)
+2023-08-14 18:49:45.683948|INFO    |              |   |SystemInformation: Windows 10 (22621) x64 (AMD or Intel) Binary: 64bit
+2023-08-14 18:49:45.683948|INFO    |              |   |Using hardware aes
+2023-08-14 18:49:45.693487|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-08-14 18:49:45.744700|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-08-14 18:49:45.820926|INFO    |Addons        |   |Checking for addon updates...
+2023-08-14 18:49:45.827933|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-08-14 18:49:45.829932|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-08-14 18:49:45.829932|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-08-14 18:49:45.855933|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-08-14 18:49:45.855933|INFO    |Gamepad Plugin|   |Cleared device list
+2023-08-14 18:49:45.856932|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-08-14 18:49:45.858933|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-08-14 18:49:45.929904|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:49:45.929904|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:49:46.048330|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:46.150764|INFO    |              |   |*** Time [BUILD_GUI]: 219
+2023-08-14 18:49:46.162764|INFO    |              |   |*** Time [SERVERVIEW]: 234
+2023-08-14 18:49:46.165990|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 251
+2023-08-14 18:49:46.176131|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:46.213316|INFO    |              |   |myts client id: 4eadef3c-4c7a-4c11-b0c4-33c0e04cf85d
+2023-08-14 18:49:46.213316|INFO    |              |   |*** Time [MAINWINDOW]: 534
+2023-08-14 18:49:46.213316|INFO    |              |   |*** Time [INIT]: 534
+2023-08-14 18:49:46.218688|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-08-14 18:49:46.218688|INFO    |ClientUI      |   |Using configuration location: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\data\settings.db
+2023-08-14 18:49:46.303908|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:46.450134|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:46.605126|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:46.713490|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-08-14 18:49:46.713490|INFO    |ClientUI      |   |Last update check was: Mon Aug 14 13:43:42 2023
+2023-08-14 18:49:46.714495|INFO    |              |   |Statistics report: Not yet, next report on Sat Aug 19 13:47:05 2023
+2023-08-14 18:49:46.741494|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:49:47.220764|INFO    |Newsticker    |   |Newsticker next check: Tue Aug 15 18:43:39 2023 GMT
+2023-08-14 18:49:53.682755|INFO    |ClientUI      |1  |Connect to server: 127.0.0.1
+2023-08-14 18:49:53.682755|INFO    |ClientUI      |1  |Initiating connection: 127.0.0.1:9987
+2023-08-14 18:49:53.688749|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:49:53.688749|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:49:53.688749|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:49:53.691754|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Speakers (USB Audio Device)
+2023-08-14 18:49:53.691754|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Speakers (USB Audio Device)
+2023-08-14 18:49:53.697771|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Speakers (USB Audio Device)
+2023-08-14 18:49:53.697771|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Speakers (USB Audio Device)
+2023-08-14 18:49:53.697771|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:49:53.697771|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:49:53.698771|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:49:53.726071|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:49:53.726071|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:49:53.726071|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:49:53.727072|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (USB Audio Device)
+2023-08-14 18:49:53.727072|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (USB Audio Device)
+2023-08-14 18:49:54.569811|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (USB Audio Device)
+2023-08-14 18:49:54.569811|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (USB Audio Device)
+2023-08-14 18:49:54.569811|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:49:54.569811|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2023-08-14 18:49:54.569811|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:49:54.571810|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:49:54.589856|DEVELOP |PktHandler    |   |Puzzle solve time: 3
+2023-08-14 18:49:54.593362|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-08-14 18:49:54.608891|INFO    |ClientUI      |1  |Connect status: Connected
+2023-08-14 18:49:54.617409|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-08-14 18:49:54.618399|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-08-14 18:53:06.101762|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-08-14 18:53:06.102750|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:53:07.068730|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Speakers (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:53:07.068730|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Speakers (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:53:07.068730|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:53:07.068730|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-08-14 18:53:07.068730|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:53:07.068730|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-08-14 18:53:07.070723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-08-14 18:53:07.070723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:53:08.031044|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:08.031044|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:08.031044|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:08.031044|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:53:08.031044|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:53:08.031044|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-08-14 18:53:08.031044|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:53:08.031044|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:53:08.031044|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-08-14 18:53:08.079670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:53:08.079670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-08-14 18:53:08.079670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:53:08.079670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:53:08.080660|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList

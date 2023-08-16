@@ -1,0 +1,4 @@
+common:
+  args: []
+  env: {}
+  app_path: ""

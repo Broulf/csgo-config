@@ -1,0 +1,43 @@
+
+
+==================================================================================================================================
+
+2023-08-14 18:47:04.257904|INFO    |              |   |TeamSpeak Client 3.3.2 (2019-08-25 21:13:34)
+2023-08-14 18:47:04.257904|INFO    |              |   |SystemInformation: Windows 10 (22621) x64 (AMD or Intel) Binary: 64bit
+2023-08-14 18:47:04.257904|INFO    |              |   |Using hardware aes
+2023-08-14 18:47:04.267342|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-08-14 18:47:04.321056|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-08-14 18:47:04.396280|INFO    |Addons        |   |Checking for addon updates...
+2023-08-14 18:47:04.403796|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-08-14 18:47:04.404788|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-08-14 18:47:04.404788|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-08-14 18:47:04.406787|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-08-14 18:47:04.406787|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-08-14 18:47:04.432420|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-08-14 18:47:04.432420|INFO    |Gamepad Plugin|   |Cleared device list
+2023-08-14 18:47:04.521524|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:47:04.521524|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:47:04.609588|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:04.746574|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:04.796592|INFO    |              |   |*** Time [BUILD_GUI]: 273
+2023-08-14 18:47:04.809130|INFO    |              |   |*** Time [SERVERVIEW]: 289
+2023-08-14 18:47:04.812129|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 307
+2023-08-14 18:47:04.857257|INFO    |              |   |myts client id: 4eadef3c-4c7a-4c11-b0c4-33c0e04cf85d
+2023-08-14 18:47:04.857257|INFO    |              |   |*** Time [MAINWINDOW]: 603
+2023-08-14 18:47:04.858259|INFO    |              |   |*** Time [INIT]: 604
+2023-08-14 18:47:04.862257|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-08-14 18:47:04.862257|INFO    |ClientUI      |   |Using configuration location: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\data\settings.db
+2023-08-14 18:47:04.888803|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:05.034802|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:05.169054|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:05.302176|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:47:05.359410|INFO    |ClientUI      |   |Last update check was: Mon Aug 14 13:43:42 2023
+2023-08-14 18:47:05.360400|INFO    |              |   |Statistics report: First run, report later in 1-30 days
+2023-08-14 18:47:05.360400|INFO    |              |   |Statistics report: Setting next report date to: Sat Aug 19 13:47:05 2023
+2023-08-14 18:47:05.408383|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-08-14 18:47:05.874716|INFO    |Newsticker    |   |Newsticker next check: Tue Aug 15 18:43:39 2023 GMT
+2023-08-14 18:47:09.488542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:47:09.488542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:47:09.488542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:47:09.488542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:47:09.489541|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList

@@ -1,0 +1,800 @@
+
+
+==================================================================================================================================
+
+2023-08-14 18:43:38.845384|INFO    |              |   |TeamSpeak Client 3.3.2 (2019-08-25 21:13:34)
+2023-08-14 18:43:38.846384|INFO    |              |   |SystemInformation: Windows 10 (22621) x64 (AMD or Intel) Binary: 64bit
+2023-08-14 18:43:38.846384|INFO    |              |   |Using hardware aes
+2023-08-14 18:43:38.892342|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-08-14 18:43:39.153635|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-08-14 18:43:39.156932|ERROR   |RevocationListCache|   |Failed to import revocation list from cache
+2023-08-14 18:43:39.236153|INFO    |Addons        |   |Checking for addon updates...
+2023-08-14 18:43:39.279552|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-08-14 18:43:39.291554|INFO    |SyncImpl      |   |Creating default config in local storage
+2023-08-14 18:43:39.319909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:43:39.319909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:43:39.336350|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-08-14 18:43:40.594342|INFO    |              |   |*** Time [BUILD_GUI]: 1271
+2023-08-14 18:43:40.606381|INFO    |              |   |*** Time [SERVERVIEW]: 1287
+2023-08-14 18:43:40.619641|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 1314
+2023-08-14 18:43:40.711119|INFO    |              |   |*** Time [MAINWINDOW]: 1944
+2023-08-14 18:43:40.711119|INFO    |              |   |*** Time [INIT]: 1944
+2023-08-14 18:43:40.774672|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-08-14 18:43:40.774672|INFO    |ClientUI      |   |Using configuration location: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\data\settings.db
+2023-08-14 18:43:42.031060|INFO    |ClientUI      |   |Last update check was: Never
+2023-08-14 18:43:42.031060|INFO    |ClientUI      |   |Checking for update
+2023-08-14 18:43:42.047616|INFO    |Update        |   |Checking for updates...
+2023-08-14 18:43:42.047616|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-08-14 18:43:42.047616|INFO    |Integrations  |   |Requesting integration icon download from https://ts3services.teamspeak.com/integration_icons/twitch/twitch.svg
+2023-08-14 18:43:42.048618|INFO    |Newsticker    |   |Newsticker language change detected
+2023-08-14 18:43:42.048618|INFO    |Newsticker    |   |Newsticker next check: 
+2023-08-14 18:43:42.181129|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/control-13win64_5d002c29b8529.ts3_plugin Addon_Uuid:fe337fce-f1c4-425f-a95a-b88d0badda16 Version: 4
+2023-08-14 18:43:42.239611|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/teamspeak_control_plugin_win64.dll
+2023-08-14 18:43:42.258222|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/gamepadjoystickpluginwin64_5d0043f73bedc.ts3_plugin Addon_Uuid:9415ef5c-736c-4780-b4df-4cd53c886a8d Version: 8
+2023-08-14 18:43:42.276222|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:43:42.285222|INFO    |Addon_Install_Manager|   |Addon installed: Control
+2023-08-14 18:43:42.298213|INFO    |Addons        |   |Installing addon Control
+2023-08-14 18:43:42.385370|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-08-14 18:43:42.393186|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/gamepad_joystick/api_stub.dll
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/gamepad_joystick/usb.ids
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/gamepad_joystick/xinput1_4.dll
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/gamepad_joystick/XInput1_4_win7.dll
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/gamepad_joystick_win64.dll
+2023-08-14 18:43:42.394164|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:43:42.394164|INFO    |Addon_Install_Manager|   |Addon installed: Gamepad and Joystick Hotkey Support
+2023-08-14 18:43:42.406171|INFO    |Addons        |   |Installing addon Gamepad and Joystick Hotkey Support
+2023-08-14 18:43:42.434890|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-08-14 18:43:42.471890|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-08-14 18:43:42.471890|INFO    |Gamepad Plugin|   |Cleared device list
+2023-08-14 18:43:42.476890|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/clientquerypluginwin64_5d2d9a74826e7.ts3_plugin Addon_Uuid:943dd816-7ef2-48d7-82b8-d60c3b9b10b3 Version: 7
+2023-08-14 18:43:42.498543|INFO    |Update        |   |Check license: version=5, min_version=4, my_license_version=0, my_license_min_version=0
+2023-08-14 18:43:42.511056|INFO    |LicenseViewer |   |View license: version=5, language=en, require accept=1
+2023-08-14 18:43:42.511056|INFO    |LicenseViewer |   |Requesting remote license for version 5 and language en
+2023-08-14 18:43:42.528069|INFO    |Newsticker    |   |Newsticker received for language en, expires on Tue Aug 15 18:43:39 2023 GMT, next check in 86396 seconds
+2023-08-14 18:43:42.568912|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/auth.txt
+2023-08-14 18:43:42.569906|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banadd.txt
+2023-08-14 18:43:42.571910|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banclient.txt
+2023-08-14 18:43:42.573909|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/bandel.txt
+2023-08-14 18:43:42.577339|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/bandelall.txt
+2023-08-14 18:43:42.579347|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banlist.txt
+2023-08-14 18:43:42.580347|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeladdperm.txt
+2023-08-14 18:43:42.582347|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientaddperm.txt
+2023-08-14 18:43:42.584834|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientdelperm.txt
+2023-08-14 18:43:42.585850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientlist.txt
+2023-08-14 18:43:42.587850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientpermlist.txt
+2023-08-14 18:43:42.588850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelconnectinfo.txt
+2023-08-14 18:43:42.590850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelcreate.txt
+2023-08-14 18:43:42.591850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeldelete.txt
+2023-08-14 18:43:42.593854|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeldelperm.txt
+2023-08-14 18:43:42.594853|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeledit.txt
+2023-08-14 18:43:42.596856|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupadd.txt
+2023-08-14 18:43:42.597850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupaddperm.txt
+2023-08-14 18:43:42.599853|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupclientlist.txt
+2023-08-14 18:43:42.606850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupdel.txt
+2023-08-14 18:43:42.607850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupdelperm.txt
+2023-08-14 18:43:42.609850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgrouplist.txt
+2023-08-14 18:43:42.610850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgrouppermlist.txt
+2023-08-14 18:43:42.611850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channellist.txt
+2023-08-14 18:43:42.613850|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelmove.txt
+2023-08-14 18:43:42.614865|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelpermlist.txt
+2023-08-14 18:43:42.615865|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelvariable.txt
+2023-08-14 18:43:42.617864|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientaddperm.txt
+2023-08-14 18:43:42.618864|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdbdelete.txt
+2023-08-14 18:43:42.620864|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdbedit.txt
+2023-08-14 18:43:42.621864|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdblist.txt
+2023-08-14 18:43:42.625923|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdelperm.txt
+2023-08-14 18:43:42.626931|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetdbidfromuid.txt
+2023-08-14 18:43:42.628932|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetids.txt
+2023-08-14 18:43:42.629449|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetnamefromdbid.txt
+2023-08-14 18:43:42.632475|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetnamefromuid.txt
+2023-08-14 18:43:42.634465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetuidfromclid.txt
+2023-08-14 18:43:42.635465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientkick.txt
+2023-08-14 18:43:42.637465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientlist.txt
+2023-08-14 18:43:42.641465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientmove.txt
+2023-08-14 18:43:42.642465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientmute.txt
+2023-08-14 18:43:42.644465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientnotifyregister.txt
+2023-08-14 18:43:42.645465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientnotifyunregister.txt
+2023-08-14 18:43:42.647465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientpermlist.txt
+2023-08-14 18:43:42.648465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientpoke.txt
+2023-08-14 18:43:42.650465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientunmute.txt
+2023-08-14 18:43:42.651456|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientupdate.txt
+2023-08-14 18:43:42.653465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientvariable.txt
+2023-08-14 18:43:42.654465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complainadd.txt
+2023-08-14 18:43:42.656465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complaindel.txt
+2023-08-14 18:43:42.658465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complaindelall.txt
+2023-08-14 18:43:42.659465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complainlist.txt
+2023-08-14 18:43:42.661457|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/connect.txt
+2023-08-14 18:43:42.663465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/currentschandlerid.txt
+2023-08-14 18:43:42.664465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/disconnect.txt
+2023-08-14 18:43:42.666465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftcreatedir.txt
+2023-08-14 18:43:42.668465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftdeletefile.txt
+2023-08-14 18:43:42.669465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftgetfileinfo.txt
+2023-08-14 18:43:42.671467|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftgetfilelist.txt
+2023-08-14 18:43:42.672465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftinitdownload.txt
+2023-08-14 18:43:42.674465|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftinitupload.txt
+2023-08-14 18:43:42.676585|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftlist.txt
+2023-08-14 18:43:42.678257|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftrenamefile.txt
+2023-08-14 18:43:42.682751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftstop.txt
+2023-08-14 18:43:42.684349|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/hashpassword.txt
+2023-08-14 18:43:42.686499|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/help.txt
+2023-08-14 18:43:42.687662|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageadd.txt
+2023-08-14 18:43:42.688719|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messagedel.txt
+2023-08-14 18:43:42.690734|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageget.txt
+2023-08-14 18:43:42.692744|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messagelist.txt
+2023-08-14 18:43:42.694008|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageupdateflag.txt
+2023-08-14 18:43:42.695026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/permoverview.txt
+2023-08-14 18:43:42.697024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/quit.txt
+2023-08-14 18:43:42.699024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/README.txt
+2023-08-14 18:43:42.701016|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/sendtextmessage.txt
+2023-08-14 18:43:42.703016|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/serverconnectinfo.txt
+2023-08-14 18:43:42.704026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/serverconnectionhandlerlist.txt
+2023-08-14 18:43:42.706024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupadd.txt
+2023-08-14 18:43:42.707024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupaddclient.txt
+2023-08-14 18:43:42.709024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupaddperm.txt
+2023-08-14 18:43:42.710024|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupclientlist.txt
+2023-08-14 18:43:42.712016|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdel.txt
+2023-08-14 18:43:42.716040|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdelclient.txt
+2023-08-14 18:43:42.717039|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdelperm.txt
+2023-08-14 18:43:42.719040|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergrouplist.txt
+2023-08-14 18:43:42.720039|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergrouppermlist.txt
+2023-08-14 18:43:42.722032|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupsbyclientid.txt
+2023-08-14 18:43:42.724157|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servervariable.txt
+2023-08-14 18:43:42.725333|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/setclientchannelgroup.txt
+2023-08-14 18:43:42.727346|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenadd.txt
+2023-08-14 18:43:42.728851|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokendelete.txt
+2023-08-14 18:43:42.729854|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenlist.txt
+2023-08-14 18:43:42.731903|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenuse.txt
+2023-08-14 18:43:42.733855|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/use.txt
+2023-08-14 18:43:42.735855|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/verifychannelpassword.txt
+2023-08-14 18:43:42.736855|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/verifyserverpassword.txt
+2023-08-14 18:43:42.738854|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/whoami.txt
+2023-08-14 18:43:42.742210|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin_win64.dll
+2023-08-14 18:43:42.775339|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:43:42.789685|INFO    |Addon_Install_Manager|   |Addon installed: ClientQuery
+2023-08-14 18:43:42.802983|INFO    |Addons        |   |Installing addon ClientQuery
+2023-08-14 18:43:42.831243|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-08-14 18:43:42.854235|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-08-14 18:43:43.006178|INFO    |LicenseViewer |   |Downloaded license file for version 5 and language en
+2023-08-14 18:43:45.549715|INFO    |ClientUI      |   |Trying to open html from: file:///C:/Users/anthony.DOMAIN/Downloads/teamspeak-client-portable-win64-3.3.2-14/app/html/myteamspeak_intro/index.html
+2023-08-14 18:43:58.573901|INFO    |ClientUI      |   |Account login successful
+2023-08-14 18:43:58.943636|INFO    |Addons        |   |Checking for uninstalls and updates...
+2023-08-14 18:43:58.943636|INFO    |Addons        |   |Checking for addon updates...
+2023-08-14 18:43:58.948703|INFO    |              |   |********** LEGACY IMPORT ***************
+2023-08-14 18:43:58.948703|INFO    |              |   |Imported channel passwords
+2023-08-14 18:43:58.948703|INFO    |              |   |Imported legacy hotkeys
+2023-08-14 18:43:58.949713|INFO    |              |   |No legacy bookmarks found
+2023-08-14 18:43:58.949713|INFO    |              |   |Imported legacy bookmarks
+2023-08-14 18:43:58.949713|INFO    |              |   |Imported legacy subscriptions
+2023-08-14 18:43:58.949713|INFO    |              |   |Imported legacy whisperlists
+2023-08-14 18:43:59.175856|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:43:59.716397|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:43:59.844931|INFO    |Addon         |   |Addon up to date.
+2023-08-14 18:44:00.185627|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/Material4Teamspeak_black.ts3_iconpack Addon_Uuid:a7235ff9-fe27-48eb-8f17-5dfe08d3b065 Version: 1
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/3d_sound.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/3d_sound_user.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/about.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/activate_input.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/add.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/add_foe.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/add_folder.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/addon.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/addon_collection.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/addon_icon.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/addon_sound.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/addon_translation.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/apply.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/arrow_down.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/arrow_left.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/arrow_right.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/arrow_up.png
+2023-08-14 18:44:00.344289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/arrow_up_head.png
+2023-08-14 18:44:00.345296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/avatar_delete.png
+2023-08-14 18:44:00.346794|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/avatar_upload.png
+2023-08-14 18:44:00.348799|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/away.png
+2023-08-14 18:44:00.349803|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ban.png
+2023-08-14 18:44:00.353338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/bookmark_manager.png
+2023-08-14 18:44:00.355338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/browser.png
+2023-08-14 18:44:00.357338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/capture.png
+2023-08-14 18:44:00.358338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/celt.png
+2023-08-14 18:44:00.360344|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/celt0.png
+2023-08-14 18:44:00.361339|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/change_nickname.png
+2023-08-14 18:44:00.363345|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/changelog.png
+2023-08-14 18:44:00.365344|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel.png
+2023-08-14 18:44:00.366338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_chat.png
+2023-08-14 18:44:00.368344|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_chat_new.png
+2023-08-14 18:44:00.369335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_green.png
+2023-08-14 18:44:00.371512|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_green_subscribed.png
+2023-08-14 18:44:00.372433|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_red.png
+2023-08-14 18:44:00.374509|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_red_.png
+2023-08-14 18:44:00.375447|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_red_subscribed.png
+2023-08-14 18:44:00.377502|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_yellow.png
+2023-08-14 18:44:00.379431|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/channel_yellow_subscribed.png
+2023-08-14 18:44:00.380444|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/check.png
+2023-08-14 18:44:00.382433|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/clear.png
+2023-08-14 18:44:00.384440|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/client.png
+2023-08-14 18:44:00.385439|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/close.png
+2023-08-14 18:44:00.387439|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/connect.png
+2023-08-14 18:44:00.388439|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/connect_tab.png
+2023-08-14 18:44:00.393271|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/contact.png
+2023-08-14 18:44:00.395287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/copy.png
+2023-08-14 18:44:00.396287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/copy_url.png
+2023-08-14 18:44:00.398287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/default.png
+2023-08-14 18:44:00.399287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/default_channel.png
+2023-08-14 18:44:00.401287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/disconnect.png
+2023-08-14 18:44:00.402280|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/disconnect_all.png
+2023-08-14 18:44:00.404287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/down.png
+2023-08-14 18:44:00.405278|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/download.png
+2023-08-14 18:44:00.407287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/edit.png
+2023-08-14 18:44:00.409289|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/edit_friend_foe_status.png
+2023-08-14 18:44:00.410287|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticon.png
+2023-08-14 18:44:00.413290|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/angry.png
+2023-08-14 18:44:00.414288|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/cool.png
+2023-08-14 18:44:00.416459|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/emoticons.txt
+2023-08-14 18:44:00.417466|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/laugh.png
+2023-08-14 18:44:00.422131|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/sad.png
+2023-08-14 18:44:00.424128|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/scream.png
+2023-08-14 18:44:00.425130|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/skeptical.png
+2023-08-14 18:44:00.427127|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/smile.png
+2023-08-14 18:44:00.429130|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/stunned.png
+2023-08-14 18:44:00.430124|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/tongue.png
+2023-08-14 18:44:00.432180|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/emoticons/twinkle.png
+2023-08-14 18:44:00.436135|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/error.png
+2023-08-14 18:44:00.437135|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/export.png
+2023-08-14 18:44:00.439200|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/favourite.png
+2023-08-14 18:44:00.441210|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/find.png
+2023-08-14 18:44:00.443211|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/folder.png
+2023-08-14 18:44:00.444211|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/grant_next.png
+2023-08-14 18:44:00.446219|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/grant_next_revoke_all.png
+2023-08-14 18:44:00.446737|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_100.png
+2023-08-14 18:44:00.448751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_200.png
+2023-08-14 18:44:00.449752|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_300.png
+2023-08-14 18:44:00.451756|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_500.png
+2023-08-14 18:44:00.452755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_600.png
+2023-08-14 18:44:00.454755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/group_friends.png
+2023-08-14 18:44:00.457751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/branch_closed.png
+2023-08-14 18:44:00.459754|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/branch_closed_hover.png
+2023-08-14 18:44:00.462755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/branch_open.png
+2023-08-14 18:44:00.464755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/branch_open_hover.png
+2023-08-14 18:44:00.465755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/down.png
+2023-08-14 18:44:00.467760|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/down_disabled.png
+2023-08-14 18:44:00.469755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/header_down.png
+2023-08-14 18:44:00.471757|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/header_up.png
+2023-08-14 18:44:00.473755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/left.png
+2023-08-14 18:44:00.475754|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/right.png
+2023-08-14 18:44:00.477754|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/up.png
+2023-08-14 18:44:00.478755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/arrows/up_disabled.png
+2023-08-14 18:44:00.481755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checkbox_checked_indeterminate.png
+2023-08-14 18:44:00.483755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checkbox_checked_indeterminate_v2.png
+2023-08-14 18:44:00.492755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checked_checkbox.png
+2023-08-14 18:44:00.492755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checked_checkbox_disabled.png
+2023-08-14 18:44:00.492755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checked_radiobutton.png
+2023-08-14 18:44:00.492755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/controls/checked_radiobutton_disabled.png
+2023-08-14 18:44:00.494755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Dissension/controls/checked_radiobutton.png
+2023-08-14 18:44:00.495755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Dissension/controls/hover_radiobutton.png
+2023-08-14 18:44:00.499755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Exiled/controls/checked_checkbox.png
+2023-08-14 18:44:00.501755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Exiled/controls/checked_checkbox_disabled.png
+2023-08-14 18:44:00.505755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Exiled/controls/checked_radiobutton.png
+2023-08-14 18:44:00.507755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/Exiled/controls/hover_radiobutton.png
+2023-08-14 18:44:00.510755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/logos/chatlogo.png
+2023-08-14 18:44:00.512755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/logos/chatlogo_hover.png
+2023-08-14 18:44:00.513755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/logos/chatlogo_v.png
+2023-08-14 18:44:00.516750|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/android.png
+2023-08-14 18:44:00.518749|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/freebsd.png
+2023-08-14 18:44:00.520757|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/ios.png
+2023-08-14 18:44:00.522755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/linux.png
+2023-08-14 18:44:00.524750|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/osx.png
+2023-08-14 18:44:00.526754|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/gui/platform/windows.png
+2023-08-14 18:44:00.527755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/guisetup.png
+2023-08-14 18:44:00.529755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/home.png
+2023-08-14 18:44:00.530755|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/host.png
+2023-08-14 18:44:00.532770|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/hotkeys.png
+2023-08-14 18:44:00.533772|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/iconsview.png
+2023-08-14 18:44:00.535772|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/iconviewer.png
+2023-08-14 18:44:00.537772|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/import.png
+2023-08-14 18:44:00.538772|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/invite.png
+2023-08-14 18:44:00.540771|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/is_talker.png
+2023-08-14 18:44:00.541773|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/is_talker_not.png
+2023-08-14 18:44:00.544768|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/kick_channel.png
+2023-08-14 18:44:00.546283|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/kick_server.png
+2023-08-14 18:44:00.549302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/License/Attribution-NonCommercial-ShareAlike 4.0 International.png
+2023-08-14 18:44:00.550298|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/License/Attribution-NonCommercial-ShareAlike 4.0 International.txt
+2023-08-14 18:44:00.554302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/License/Attribution-NonCommercial-ShareAlike 4.0 International.url
+2023-08-14 18:44:00.556302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/list_view.png
+2023-08-14 18:44:00.557302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/list_web.png
+2023-08-14 18:44:00.558302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/list_whisper.png
+2023-08-14 18:44:00.560302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/loading_image.png
+2023-08-14 18:44:00.561302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/manage.png
+2023-08-14 18:44:00.563302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/message_incoming.png
+2023-08-14 18:44:00.564303|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/message_info.png
+2023-08-14 18:44:00.568303|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/message_outgoing.png
+2023-08-14 18:44:00.569302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/message_preset.png
+2023-08-14 18:44:00.571303|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/mode_subscribe.png
+2023-08-14 18:44:00.572303|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/mode_unsubscribe.png
+2023-08-14 18:44:00.573302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/moderated.png
+2023-08-14 18:44:00.575297|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/move.png
+2023-08-14 18:44:00.577293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_input.png
+2023-08-14 18:44:00.578293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_input_.png
+2023-08-14 18:44:00.580314|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_input__.png
+2023-08-14 18:44:00.581294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_output.png
+2023-08-14 18:44:00.583302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_output_.png
+2023-08-14 18:44:00.584293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_hardware_output__.png
+2023-08-14 18:44:00.586302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_input.png
+2023-08-14 18:44:00.587302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/muted_output.png
+2023-08-14 18:44:00.588293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/myts_account.png
+2023-08-14 18:44:00.590302|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/myts_conflict.png
+2023-08-14 18:44:00.591293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/offline_messages.png
+2023-08-14 18:44:00.593293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/overwolf.png
+2023-08-14 18:44:00.596293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/overwolf_selected.png
+2023-08-14 18:44:00.598303|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/permission.png
+2023-08-14 18:44:00.600301|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_0.png
+2023-08-14 18:44:00.602292|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_1.png
+2023-08-14 18:44:00.603293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_2.png
+2023-08-14 18:44:00.605296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_3.png
+2023-08-14 18:44:00.607296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_4.png
+2023-08-14 18:44:00.608294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/ping_disconnected.png
+2023-08-14 18:44:00.610292|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/play.png
+2023-08-14 18:44:00.611292|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_chat.png
+2023-08-14 18:44:00.613294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_commander_off.png
+2023-08-14 18:44:00.615294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_commander_on.png
+2023-08-14 18:44:00.616293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_off.png
+2023-08-14 18:44:00.618293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_on.png
+2023-08-14 18:44:00.620293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/player_whisper.png
+2023-08-14 18:44:00.621293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/plugins.png
+2023-08-14 18:44:00.623298|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/poke.png
+2023-08-14 18:44:00.625293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/present.png
+2023-08-14 18:44:00.627293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/private.png
+2023-08-14 18:44:00.628296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/recording_start.png
+2023-08-14 18:44:00.630293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/recording_stop.png
+2023-08-14 18:44:00.631293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/refresh.png
+2023-08-14 18:44:00.633307|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/register.png
+2023-08-14 18:44:00.635298|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/reload.png
+2023-08-14 18:44:00.636307|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/remove.png
+2023-08-14 18:44:00.638307|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/remove_foe.png
+2023-08-14 18:44:00.641300|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/request.png
+2023-08-14 18:44:00.643308|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/security.png
+2023-08-14 18:44:00.645299|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/select_all.png
+2023-08-14 18:44:00.646804|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/server.png
+2023-08-14 18:44:00.648809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/settings.ini
+2023-08-14 18:44:00.650809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/settings.png
+2023-08-14 18:44:00.651809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/sort_by_name.png
+2023-08-14 18:44:00.653809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/switch_advanced.png
+2023-08-14 18:44:00.655809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/switch_standard.png
+2023-08-14 18:44:00.657809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/switchL.png
+2023-08-14 18:44:00.658818|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/switchR.png
+2023-08-14 18:44:00.660811|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/sync.png
+2023-08-14 18:44:00.661810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/sync_disable.png
+2023-08-14 18:44:00.663810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/sync_enable.png
+2023-08-14 18:44:00.664810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/tab_close_button.png
+2023-08-14 18:44:00.666818|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/temp_server_password.png
+2023-08-14 18:44:00.667810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/textformat.png
+2023-08-14 18:44:00.668810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/textformat_bold.png
+2023-08-14 18:44:00.670809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/textformat_foreground.png
+2023-08-14 18:44:00.671809|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/textformat_italic.png
+2023-08-14 18:44:00.673818|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/textformat_underline.png
+2023-08-14 18:44:00.675948|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/toggle_server_query_clients.png
+2023-08-14 18:44:00.677638|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/token.png
+2023-08-14 18:44:00.679252|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/token_use.png
+2023-08-14 18:44:00.680948|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/transfer.png
+2023-08-14 18:44:00.682049|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/up.png
+2023-08-14 18:44:00.683827|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/upload.png
+2023-08-14 18:44:00.685517|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/urlcatcher.png
+2023-08-14 18:44:00.686578|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/volume.png
+2023-08-14 18:44:00.688586|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/warning.png
+2023-08-14 18:44:00.689586|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/warning_error.png
+2023-08-14 18:44:00.691605|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/warning_external_link.png
+2023-08-14 18:44:00.692597|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/whisper.png
+2023-08-14 18:44:00.694594|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakBlack/whisper_toggle.png
+2023-08-14 18:44:00.737610|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:44:00.765150|INFO    |Addon_Install_Manager|   |Addon installed: Material-Icons for Teamspeak (Black)
+2023-08-14 18:44:00.765150|INFO    |Addons        |   |Installing addon Material-Icons for Teamspeak (Black)
+2023-08-14 18:44:01.077303|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/Material4Teamspeak_white.ts3_iconpack Addon_Uuid:4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79 Version: 1
+2023-08-14 18:44:01.222127|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/3d_sound.png
+2023-08-14 18:44:01.224126|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/3d_sound_user.png
+2023-08-14 18:44:01.225126|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/about.png
+2023-08-14 18:44:01.229126|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/activate_input.png
+2023-08-14 18:44:01.230139|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/add.png
+2023-08-14 18:44:01.231126|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/add_foe.png
+2023-08-14 18:44:01.233595|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/add_folder.png
+2023-08-14 18:44:01.234582|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/addon.png
+2023-08-14 18:44:01.236581|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/addon_collection.png
+2023-08-14 18:44:01.237718|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/addon_icon.png
+2023-08-14 18:44:01.238727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/addon_sound.png
+2023-08-14 18:44:01.240727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/addon_translation.png
+2023-08-14 18:44:01.241728|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/apply.png
+2023-08-14 18:44:01.243727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/arrow_down.png
+2023-08-14 18:44:01.244740|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/arrow_left.png
+2023-08-14 18:44:01.246209|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/arrow_right.png
+2023-08-14 18:44:01.247727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/arrow_up.png
+2023-08-14 18:44:01.249213|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/arrow_up_head.png
+2023-08-14 18:44:01.250223|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/avatar_delete.png
+2023-08-14 18:44:01.252260|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/avatar_upload.png
+2023-08-14 18:44:01.254277|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/away.png
+2023-08-14 18:44:01.255265|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ban.png
+2023-08-14 18:44:01.257279|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/bookmark_manager.png
+2023-08-14 18:44:01.258307|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/browser.png
+2023-08-14 18:44:01.260316|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/capture.png
+2023-08-14 18:44:01.261316|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/celt.png
+2023-08-14 18:44:01.263378|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/celt0.png
+2023-08-14 18:44:01.265395|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/change_nickname.png
+2023-08-14 18:44:01.266402|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/changelog.png
+2023-08-14 18:44:01.268296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel.png
+2023-08-14 18:44:01.269281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_chat.png
+2023-08-14 18:44:01.270281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_chat_new.png
+2023-08-14 18:44:01.272281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_green.png
+2023-08-14 18:44:01.274296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_green_subscribed.png
+2023-08-14 18:44:01.275281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_red.png
+2023-08-14 18:44:01.276281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_red_.png
+2023-08-14 18:44:01.278281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_red_subscribed.png
+2023-08-14 18:44:01.279280|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_yellow.png
+2023-08-14 18:44:01.281294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/channel_yellow_subscribed.png
+2023-08-14 18:44:01.283296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/check.png
+2023-08-14 18:44:01.284293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/clear.png
+2023-08-14 18:44:01.286291|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/client.png
+2023-08-14 18:44:01.287281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/close.png
+2023-08-14 18:44:01.289281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/connect.png
+2023-08-14 18:44:01.290294|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/connect_tab.png
+2023-08-14 18:44:01.294281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/contact.png
+2023-08-14 18:44:01.296297|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/copy.png
+2023-08-14 18:44:01.297281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/copy_url.png
+2023-08-14 18:44:01.299293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/default.png
+2023-08-14 18:44:01.300296|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/default_channel.png
+2023-08-14 18:44:01.302281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/disconnect.png
+2023-08-14 18:44:01.303281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/disconnect_all.png
+2023-08-14 18:44:01.304282|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/down.png
+2023-08-14 18:44:01.306298|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/download.png
+2023-08-14 18:44:01.307292|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/edit.png
+2023-08-14 18:44:01.309281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/edit_friend_foe_status.png
+2023-08-14 18:44:01.310293|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticon.png
+2023-08-14 18:44:01.313291|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/angry.png
+2023-08-14 18:44:01.314292|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/cool.png
+2023-08-14 18:44:01.315281|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/emoticons.txt
+2023-08-14 18:44:01.317290|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/laugh.png
+2023-08-14 18:44:01.321335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/sad.png
+2023-08-14 18:44:01.322335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/scream.png
+2023-08-14 18:44:01.324346|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/skeptical.png
+2023-08-14 18:44:01.325344|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/smile.png
+2023-08-14 18:44:01.327335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/stunned.png
+2023-08-14 18:44:01.329335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/tongue.png
+2023-08-14 18:44:01.331335|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/emoticons/twinkle.png
+2023-08-14 18:44:01.334340|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/error.png
+2023-08-14 18:44:01.336352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/export.png
+2023-08-14 18:44:01.337339|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/favourite.png
+2023-08-14 18:44:01.339341|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/find.png
+2023-08-14 18:44:01.340349|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/folder.png
+2023-08-14 18:44:01.342351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/grant_next.png
+2023-08-14 18:44:01.343424|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/grant_next_revoke_all.png
+2023-08-14 18:44:01.344446|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_100.png
+2023-08-14 18:44:01.345432|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_200.png
+2023-08-14 18:44:01.346433|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_300.png
+2023-08-14 18:44:01.348955|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_500.png
+2023-08-14 18:44:01.350477|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_600.png
+2023-08-14 18:44:01.351487|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/group_friends.png
+2023-08-14 18:44:01.354476|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/branch_closed.png
+2023-08-14 18:44:01.356475|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/branch_closed_hover.png
+2023-08-14 18:44:01.358475|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/branch_open.png
+2023-08-14 18:44:01.360478|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/branch_open_hover.png
+2023-08-14 18:44:01.362482|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/down.png
+2023-08-14 18:44:01.364481|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/down_disabled.png
+2023-08-14 18:44:01.365429|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/header_down.png
+2023-08-14 18:44:01.367376|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/header_up.png
+2023-08-14 18:44:01.369378|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/left.png
+2023-08-14 18:44:01.371387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/right.png
+2023-08-14 18:44:01.373387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/up.png
+2023-08-14 18:44:01.375387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/arrows/up_disabled.png
+2023-08-14 18:44:01.377386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checkbox_checked_indeterminate.png
+2023-08-14 18:44:01.379385|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checkbox_checked_indeterminate_v2.png
+2023-08-14 18:44:01.381387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checked_checkbox.png
+2023-08-14 18:44:01.383378|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checked_checkbox_disabled.png
+2023-08-14 18:44:01.384386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checked_radiobutton.png
+2023-08-14 18:44:01.386387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/controls/checked_radiobutton_disabled.png
+2023-08-14 18:44:01.389388|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Dissension/controls/checked_radiobutton.png
+2023-08-14 18:44:01.391387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Dissension/controls/hover_radiobutton.png
+2023-08-14 18:44:01.395387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Exiled/controls/checked_checkbox.png
+2023-08-14 18:44:01.397387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Exiled/controls/checked_checkbox_disabled.png
+2023-08-14 18:44:01.399387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Exiled/controls/checked_radiobutton.png
+2023-08-14 18:44:01.401387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/Exiled/controls/hover_radiobutton.png
+2023-08-14 18:44:01.404387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/logos/chatlogo.png
+2023-08-14 18:44:01.405387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/logos/chatlogo_hover.png
+2023-08-14 18:44:01.407387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/logos/chatlogo_v.png
+2023-08-14 18:44:01.410387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/android.png
+2023-08-14 18:44:01.412387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/freebsd.png
+2023-08-14 18:44:01.414386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/ios.png
+2023-08-14 18:44:01.416387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/linux.png
+2023-08-14 18:44:01.418386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/osx.png
+2023-08-14 18:44:01.420388|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/gui/platform/windows.png
+2023-08-14 18:44:01.421387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/guisetup.png
+2023-08-14 18:44:01.423387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/home.png
+2023-08-14 18:44:01.424387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/host.png
+2023-08-14 18:44:01.426386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/hotkeys.png
+2023-08-14 18:44:01.427386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/iconsview.png
+2023-08-14 18:44:01.429387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/iconviewer.png
+2023-08-14 18:44:01.430387|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/import.png
+2023-08-14 18:44:01.432386|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/invite.png
+2023-08-14 18:44:01.434403|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/is_talker.png
+2023-08-14 18:44:01.435404|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/is_talker_not.png
+2023-08-14 18:44:01.436394|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/kick_channel.png
+2023-08-14 18:44:01.438404|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/kick_server.png
+2023-08-14 18:44:01.440403|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/License/Attribution-NonCommercial-ShareAlike 4.0 International.png
+2023-08-14 18:44:01.442404|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/License/Attribution-NonCommercial-ShareAlike 4.0 International.txt
+2023-08-14 18:44:01.445811|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/License/Attribution-NonCommercial-ShareAlike 4.0 International.url
+2023-08-14 18:44:01.446810|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/list_view.png
+2023-08-14 18:44:01.448332|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/list_web.png
+2023-08-14 18:44:01.450352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/list_whisper.png
+2023-08-14 18:44:01.451352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/loading_image.png
+2023-08-14 18:44:01.453351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/manage.png
+2023-08-14 18:44:01.455352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/message_incoming.png
+2023-08-14 18:44:01.456352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/message_info.png
+2023-08-14 18:44:01.457342|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/message_outgoing.png
+2023-08-14 18:44:01.459351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/message_preset.png
+2023-08-14 18:44:01.460351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/mode_subscribe.png
+2023-08-14 18:44:01.462351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/mode_unsubscribe.png
+2023-08-14 18:44:01.463352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/moderated.png
+2023-08-14 18:44:01.464351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/move.png
+2023-08-14 18:44:01.466352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_input.png
+2023-08-14 18:44:01.467351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_input_.png
+2023-08-14 18:44:01.469352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_input__.png
+2023-08-14 18:44:01.470351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_output.png
+2023-08-14 18:44:01.471352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_output_.png
+2023-08-14 18:44:01.473351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_hardware_output__.png
+2023-08-14 18:44:01.474352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_input.png
+2023-08-14 18:44:01.476352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/muted_output.png
+2023-08-14 18:44:01.477352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/myts_account.png
+2023-08-14 18:44:01.478351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/myts_conflict.png
+2023-08-14 18:44:01.480351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/offline_messages.png
+2023-08-14 18:44:01.481352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/overwolf.png
+2023-08-14 18:44:01.483352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/overwolf_selected.png
+2023-08-14 18:44:01.485352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/permission.png
+2023-08-14 18:44:01.486352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_0.png
+2023-08-14 18:44:01.488352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_1.png
+2023-08-14 18:44:01.489352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_2.png
+2023-08-14 18:44:01.491351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_3.png
+2023-08-14 18:44:01.492351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_4.png
+2023-08-14 18:44:01.494352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/ping_disconnected.png
+2023-08-14 18:44:01.495351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/play.png
+2023-08-14 18:44:01.497352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_chat.png
+2023-08-14 18:44:01.498352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_commander_off.png
+2023-08-14 18:44:01.499351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_commander_on.png
+2023-08-14 18:44:01.501352|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_off.png
+2023-08-14 18:44:01.502351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_on.png
+2023-08-14 18:44:01.504351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/player_whisper.png
+2023-08-14 18:44:01.505351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/plugins.png
+2023-08-14 18:44:01.507351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/poke.png
+2023-08-14 18:44:01.508351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/present.png
+2023-08-14 18:44:01.510351|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/private.png
+2023-08-14 18:44:01.512133|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/recording_start.png
+2023-08-14 18:44:01.514138|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/recording_stop.png
+2023-08-14 18:44:01.515145|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/refresh.png
+2023-08-14 18:44:01.517132|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/register.png
+2023-08-14 18:44:01.519140|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/reload.png
+2023-08-14 18:44:01.520142|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/remove.png
+2023-08-14 18:44:01.521131|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/remove_foe.png
+2023-08-14 18:44:01.524131|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/request.png
+2023-08-14 18:44:01.525141|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/security.png
+2023-08-14 18:44:01.527132|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/select_all.png
+2023-08-14 18:44:01.528142|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/server.png
+2023-08-14 18:44:01.530141|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/settings.ini
+2023-08-14 18:44:01.532135|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/settings.png
+2023-08-14 18:44:01.534140|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/sort_by_name.png
+2023-08-14 18:44:01.535139|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/switch_advanced.png
+2023-08-14 18:44:01.536140|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/switch_standard.png
+2023-08-14 18:44:01.538139|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/switchL.png
+2023-08-14 18:44:01.540149|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/switchR.png
+2023-08-14 18:44:01.542140|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/sync.png
+2023-08-14 18:44:01.544152|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/sync_disable.png
+2023-08-14 18:44:01.546080|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/sync_enable.png
+2023-08-14 18:44:01.547090|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/tab_close_button.png
+2023-08-14 18:44:01.548697|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/temp_server_password.png
+2023-08-14 18:44:01.550807|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/textformat.png
+2023-08-14 18:44:01.552717|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/textformat_bold.png
+2023-08-14 18:44:01.553716|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/textformat_foreground.png
+2023-08-14 18:44:01.555716|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/textformat_italic.png
+2023-08-14 18:44:01.556717|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/textformat_underline.png
+2023-08-14 18:44:01.558715|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/toggle_server_query_clients.png
+2023-08-14 18:44:01.559717|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/token.png
+2023-08-14 18:44:01.560715|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/token_use.png
+2023-08-14 18:44:01.563355|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/transfer.png
+2023-08-14 18:44:01.564973|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/up.png
+2023-08-14 18:44:01.565974|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/upload.png
+2023-08-14 18:44:01.567769|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/urlcatcher.png
+2023-08-14 18:44:01.568769|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/volume.png
+2023-08-14 18:44:01.570768|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/warning.png
+2023-08-14 18:44:01.571769|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/warning_error.png
+2023-08-14 18:44:01.573769|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/warning_external_link.png
+2023-08-14 18:44:01.575769|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/whisper.png
+2023-08-14 18:44:01.576768|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /gfx/MaterialForTeamspeakWhite/whisper_toggle.png
+2023-08-14 18:44:01.612305|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:44:01.639700|INFO    |Addon_Install_Manager|   |Addon installed: Material-Icons for Teamspeak (White)
+2023-08-14 18:44:01.639700|INFO    |Addons        |   |Installing addon Material-Icons for Teamspeak (White)
+2023-08-14 18:44:01.808199|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/anthony.DOMAIN/AppData/Local/Temp/DarkenTS-Dissensionv122_5ec97041009f3.ts3_style Addon_Uuid:4a834709-3315-4c53-a80d-b09efd03fce2 Version: 9
+2023-08-14 18:44:01.929625|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Changelog/CHANGELOG.txt
+2023-08-14 18:44:01.930619|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/channelinfo.tpl
+2023-08-14 18:44:01.934639|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/clientinfo.tpl
+2023-08-14 18:44:01.937639|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - ------------------------------- - 1.txt
+2023-08-14 18:44:01.939640|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/channelinfo.tpl
+2023-08-14 18:44:01.940640|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/chatlog-128x96.png
+2023-08-14 18:44:01.943639|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/clientinfo.tpl
+2023-08-14 18:44:01.944638|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/logo-128x128.png
+2023-08-14 18:44:01.946635|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/serverinfo.tpl
+2023-08-14 18:44:01.948655|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/splitter.png
+2023-08-14 18:44:01.950079|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/splitter_vertical.png
+2023-08-14 18:44:01.952080|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/tree_tooltip_channel.tpl
+2023-08-14 18:44:01.953079|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default/tree_tooltip_client.tpl
+2023-08-14 18:44:01.956677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1 - Default Info Display Preview.png
+2023-08-14 18:44:01.958677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1.1 - Install Default Info Display.bat
+2023-08-14 18:44:01.960676|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1.2.sh
+2023-08-14 18:44:01.961676|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/1.3 - Install Default Info Display.command
+2023-08-14 18:44:01.963679|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - ------------------------------- - 2.txt
+2023-08-14 18:44:01.965677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017/channelinfo.tpl
+2023-08-14 18:44:01.966677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017/clientinfo.tpl
+2023-08-14 18:44:01.970677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017/serverinfo.tpl
+2023-08-14 18:44:01.972689|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017/tree_tooltip_channel.tpl
+2023-08-14 18:44:01.974677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017/tree_tooltip_client.tpl
+2023-08-14 18:44:01.975677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2 - Extended 2017 Info Display.png
+2023-08-14 18:44:01.977676|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2.1 - Install Extended 2017 Info Display.bat
+2023-08-14 18:44:01.979688|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2.2.sh
+2023-08-14 18:44:01.981685|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/2.3 - Install Extended 2017 Info Display.command
+2023-08-14 18:44:01.982677|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - ------------------------------- - 3.txt
+2023-08-14 18:44:01.985678|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Install Small Badges.bat
+2023-08-14 18:44:01.987678|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/channelinfo.tpl
+2023-08-14 18:44:01.990027|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/channelinfo_de.tpl
+2023-08-14 18:44:01.994026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/clientinfo.tpl
+2023-08-14 18:44:01.996040|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/clientinfo_de.tpl
+2023-08-14 18:44:01.997026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/serverinfo.tpl
+2023-08-14 18:44:01.999025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/serverinfo_de.tpl
+2023-08-14 18:44:02.000025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/tree_tooltip_channel.tpl
+2023-08-14 18:44:02.002026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges/tree_tooltip_client.tpl
+2023-08-14 18:44:02.006025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/1 - Small Badges (Default).png
+2023-08-14 18:44:02.008039|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Install Large Badges.bat
+2023-08-14 18:44:02.010026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/channelinfo.tpl
+2023-08-14 18:44:02.012026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/channelinfo_de.tpl
+2023-08-14 18:44:02.014026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/clientinfo.tpl
+2023-08-14 18:44:02.016025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/clientinfo_de.tpl
+2023-08-14 18:44:02.017025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/serverinfo.tpl
+2023-08-14 18:44:02.019025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/serverinfo_de.tpl
+2023-08-14 18:44:02.020025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/tree_tooltip_channel.tpl
+2023-08-14 18:44:02.022026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges/tree_tooltip_client.tpl
+2023-08-14 18:44:02.023027|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/2 - Large Badges.png
+2023-08-14 18:44:02.025026|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Install Puritan.bat
+2023-08-14 18:44:02.027025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/channelinfo.tpl
+2023-08-14 18:44:02.029025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/channelinfo_de.tpl
+2023-08-14 18:44:02.032025|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/clientinfo.tpl
+2023-08-14 18:44:02.034353|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/clientinfo_de.tpl
+2023-08-14 18:44:02.035340|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/serverinfo.tpl
+2023-08-14 18:44:02.037349|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/serverinfo_de.tpl
+2023-08-14 18:44:02.038340|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/tree_tooltip_channel.tpl
+2023-08-14 18:44:02.040341|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3 - Puritan/tree_tooltip_client.tpl
+2023-08-14 18:44:02.041340|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy/3- Puritan.png
+2023-08-14 18:44:02.043349|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3 - Extended Legacy Info Display.png
+2023-08-14 18:44:02.047349|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3.1 - Install Extended Legacy Info Display.bat
+2023-08-14 18:44:02.048866|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3.2.sh
+2023-08-14 18:44:02.049885|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/3.3 - Install Extended Legacy Info Display.command
+2023-08-14 18:44:02.050875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/R - ------------------------------- - R.txt
+2023-08-14 18:44:02.052874|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/1 - Info Display/README.txt
+2023-08-14 18:44:02.056874|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/9 - Add-Ons/Better Chat/_ibcc.sh
+2023-08-14 18:44:02.057886|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/9 - Add-Ons/Better Chat/_Install Better Chat Customisation.bat
+2023-08-14 18:44:02.059887|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/9 - Add-Ons/Better Chat/avatar.png
+2023-08-14 18:44:02.061875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/9 - Add-Ons/Better Chat/style.user.css
+2023-08-14 18:44:02.062875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Customisation/ABOUT.txt
+2023-08-14 18:44:02.065882|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/Feedback/1 - TeamSpeak Forum Thread.url
+2023-08-14 18:44:02.068883|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/background/about.svg
+2023-08-14 18:44:02.070875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/background/about4.svg
+2023-08-14 18:44:02.071875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/background/bookmark_manager.png
+2023-08-14 18:44:02.073886|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/background/myts_account.png
+2023-08-14 18:44:02.075888|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/background/SNuDuD.svg
+2023-08-14 18:44:02.079884|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/addons/close.svg
+2023-08-14 18:44:02.081882|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/addons/move.svg
+2023-08-14 18:44:02.083875|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/branch_closed.svg
+2023-08-14 18:44:02.085475|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/branch_closed_hover.svg
+2023-08-14 18:44:02.090479|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/branch_open.svg
+2023-08-14 18:44:02.092479|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/branch_open_hover.svg
+2023-08-14 18:44:02.094480|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/down.svg
+2023-08-14 18:44:02.097490|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/down_disabled.svg
+2023-08-14 18:44:02.103247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/header_down.svg
+2023-08-14 18:44:02.105260|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/header_up.svg
+2023-08-14 18:44:02.107258|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/left.svg
+2023-08-14 18:44:02.109247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/left_disabled.svg
+2023-08-14 18:44:02.111247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/right.svg
+2023-08-14 18:44:02.113247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/right_disabled.svg
+2023-08-14 18:44:02.115247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/up.svg
+2023-08-14 18:44:02.117248|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/arrows/up_disabled.svg
+2023-08-14 18:44:02.120247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_0.svg
+2023-08-14 18:44:02.122247|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_0_dis.svg
+2023-08-14 18:44:02.126258|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_1.svg
+2023-08-14 18:44:02.128257|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_1_dis.svg
+2023-08-14 18:44:02.130257|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_int_1.svg
+2023-08-14 18:44:02.133256|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_p_0.svg
+2023-08-14 18:44:02.135273|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_p_1.svg
+2023-08-14 18:44:02.136274|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_p_1_dis.svg
+2023-08-14 18:44:02.138272|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_p_1_hov.svg
+2023-08-14 18:44:02.140274|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/chk_chkd_p_i.svg
+2023-08-14 18:44:02.142264|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/rd_chkd_0.svg
+2023-08-14 18:44:02.144276|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/rd_chkd_0_hov.svg
+2023-08-14 18:44:02.146273|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/rd_chkd_1.svg
+2023-08-14 18:44:02.148778|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/rd_chkd_1_hov.svg
+2023-08-14 18:44:02.150868|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/controls/separator.svg
+2023-08-14 18:44:02.153872|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/logos/chatlogo.png
+2023-08-14 18:44:02.155860|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/gfx/gui/logos/chatlogo_hover.png
+2023-08-14 18:44:02.157859|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/License/LICENSE.txt
+2023-08-14 18:44:02.158859|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/License/Use-NoSharing-NoDerivatives 1.0 WW.png
+2023-08-14 18:44:02.160859|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/serverinfo.tpl
+2023-08-14 18:44:02.162967|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/tree_tooltip_channel.tpl
+2023-08-14 18:44:02.164972|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension/tree_tooltip_client.tpl
+2023-08-14 18:44:02.165971|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension.qss
+2023-08-14 18:44:02.169970|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension_chat.qss
+2023-08-14 18:44:02.170970|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension_linux.qss
+2023-08-14 18:44:02.171970|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension_mac.qss
+2023-08-14 18:44:02.173971|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /styles/DarkenTS-Dissension_win.qss
+2023-08-14 18:44:02.210094|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-08-14 18:44:02.226093|INFO    |Addon_Install_Manager|   |Addon installed: DarkenTS - Dissension
+2023-08-14 18:44:02.239097|INFO    |Addons        |   |Installing addon DarkenTS - Dissension
+2023-08-14 18:44:09.445349|INFO    |ClientUI      |1  |Connect to server: server.broulf.org
+2023-08-14 18:44:09.446003|INFO    |ClientUI      |1  |Trying to resolve server.broulf.org
+2023-08-14 18:44:09.475455|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_tsdns._tcp.broulf.org" DNS server returned answer with no data
+2023-08-14 18:44:09.475455|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "server.broulf.org" =(h: 184.190.205.125 p:0)
+2023-08-14 18:44:09.475455|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "server.broulf.org" =(h: 184.190.205.125 p:0)
+2023-08-14 18:44:09.477454|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "broulf.org" =(h: 172.67.140.200 p:0)
+2023-08-14 18:44:09.507070|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_ts3._udp.server.broulf.org" Domain name not found
+2023-08-14 18:44:11.476265|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 184.190.205.125:41144
+2023-08-14 18:44:11.476265|INFO    |TSDNS         |   |No TSDNS found
+2023-08-14 18:44:11.477998|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 172.67.140.200:41144
+2023-08-14 18:44:11.477998|INFO    |TSDNS         |   |No TSDNS found
+2023-08-14 18:44:11.477998|INFO    |ClientUI      |1  |Lookup finished: ip=184.190.205.125 port=9987 query=server.broulf.org error=0
+2023-08-14 18:44:11.477998|INFO    |ClientUI      |1  |Resolve successful: 184.190.205.125:9987
+2023-08-14 18:44:11.477998|INFO    |ClientUI      |1  |Initiating connection: 184.190.205.125:9987
+2023-08-14 18:44:11.496699|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:44:11.496699|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:44:11.496699|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:11.501696|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Speakers (USB Audio Device)
+2023-08-14 18:44:11.501696|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Speakers (USB Audio Device)
+2023-08-14 18:44:11.509705|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Speakers (USB Audio Device)
+2023-08-14 18:44:11.509705|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Speakers (USB Audio Device)
+2023-08-14 18:44:11.509705|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:11.509705|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:11.510274|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:11.534558|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:44:11.534558|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:44:11.534558|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:11.535561|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (USB Audio Device)
+2023-08-14 18:44:11.535561|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (USB Audio Device)
+2023-08-14 18:44:13.463281|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (USB Audio Device)
+2023-08-14 18:44:13.463281|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (USB Audio Device)
+2023-08-14 18:44:13.463281|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:13.463281|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2023-08-14 18:44:13.463281|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:13.465289|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:13.504407|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-08-14 18:44:13.590065|DEVELOP |PktHandler    |   |Puzzle solve time: 2
+2023-08-14 18:44:13.854011|INFO    |ClientUI      |1  |Connect status: Connected
+2023-08-14 18:44:13.909171|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-08-14 18:44:13.912365|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-08-14 18:44:14.123032|INFO    |              |   |Failed to download remote image: Host requires authentication 204
+2023-08-14 18:44:42.315802|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-08-14 18:44:42.317796|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:43.284360|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Speakers (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:44:43.284360|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Speakers (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:44:43.284360|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{43ceb7ca-5639-4baf-be9a-444f72954255}
+2023-08-14 18:44:43.284360|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-08-14 18:44:43.284360|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:44:43.284360|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-08-14 18:44:43.286371|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:44:43.286371|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-08-14 18:44:44.318016|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:44.318016|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:44.318016|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:44.318016|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:44:44.318016|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (USB Audio Device) - DeviceDeleteList
+2023-08-14 18:44:44.318016|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{2ea574ab-dc92-4a41-845f-f0561b9bc5a5}
+2023-08-14 18:44:44.318016|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:44:44.318016|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-08-14 18:44:44.318016|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-08-14 18:44:44.365811|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-08-14 18:44:44.365811|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:44:44.365811|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-08-14 18:44:44.365811|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-08-14 18:44:44.366817|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList

@@ -1,0 +1,71 @@
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:101 > --------
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:102 > Starting TeamSpeak Client 3.3.2-14 (portapps 1.26.0)...
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:103 > Release date: 2019/08/27 15:36:02
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:104 > Publisher: CrazyMax (https://github.com/portapps/teamspeak-client-portable)
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:105 > Root path: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:109 > Loading main configuration...
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:120 > Configuration:
+common:
+  args: []
+  env: {}
+  app_path: ""
+
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:143 > Process: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\app\ts3client_win64.exe
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:144 > Args (config file): 
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:145 > Args (cmd line): 
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:146 > Args (hardcoded): -nosingleinstance
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:147 > Working dir: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\app
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:148 > App path: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\app
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:149 > Data path: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\data
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:162 > Launching TeamSpeak Client...
+Mon, 14 Aug 2023 13:43:37 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:170 > Exec C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\app\ts3client_win64.exe -nosingleinstance
+Crashdump ENABLED,  directory is: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\data\crashdumps
+DUMP defined! Dumpdir is: C:\Users\anthony.DOMAIN\Downloads\teamspeak-client-portable-win64-3.3.2-14\data\crashdumps
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:101 > --------
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:102 > Starting TeamSpeak Client 3.3.2-14 (portapps 1.26.0)...
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:103 > Release date: 2019/08/27 15:36:02
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:104 > Publisher: CrazyMax (https://github.com/portapps/teamspeak-client-portable)
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:105 > Root path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:109 > Loading main configuration...
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:120 > Configuration:
+common:
+  args: []
+  env: {}
+  app_path: ""
+
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:143 > Process: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\app\ts3client_win64.exe
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:144 > Args (config file): 
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:145 > Args (cmd line): 
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:146 > Args (hardcoded): -nosingleinstance
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:147 > Working dir: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\app
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:148 > App path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\app
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:149 > Data path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\data
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:162 > Launching TeamSpeak Client...
+Mon, 14 Aug 2023 13:47:04 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:170 > Exec C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\app\ts3client_win64.exe -nosingleinstance
+Crashdump ENABLED,  directory is: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\data\crashdumps
+DUMP defined! Dumpdir is: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3\data\crashdumps
+ClientQueryPlugin: currentServerConnectionChanged 1 (0)
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:101 > --------
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:102 > Starting TeamSpeak Client 3.3.2-14 (portapps 1.26.0)...
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:103 > Release date: 2019/08/27 15:36:02
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:104 > Publisher: CrazyMax (https://github.com/portapps/teamspeak-client-portable)
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:105 > Root path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:109 > Loading main configuration...
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:120 > Configuration:
+common:
+  args: []
+  env: {}
+  app_path: ""
+
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:143 > Process: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\app\ts3client_win64.exe
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:144 > Args (config file): 
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:145 > Args (cmd line): 
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:146 > Args (hardcoded): -nosingleinstance
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:147 > Working dir: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\app
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:148 > App path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\app
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:149 > Data path: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\data
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:162 > Launching TeamSpeak Client...
+Mon, 14 Aug 2023 13:49:45 CDT INF C:/portapps_opt/gopath/pkg/mod/github.com/portapps/portapps@v1.26.0/portapps.go:170 > Exec C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\app\ts3client_win64.exe -nosingleinstance
+Crashdump ENABLED,  directory is: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\data\crashdumps
+DUMP defined! Dumpdir is: C:\Users\anthony.DOMAIN\OneDrive - Broulf Infinite Technologies\Desktop\CSGO\ts3-client\data\crashdumps
+ClientQueryPlugin: currentServerConnectionChanged 1 (0)

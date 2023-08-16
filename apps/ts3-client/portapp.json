@@ -1,0 +1,11 @@
+{
+  "id": "teamspeak-client-portable",
+  "guid": "{65D1C710-B69D-4AC9-A62A-B2ECF438DB97}",
+  "name": "TeamSpeak Client Portable",
+  "version": "3.3.2",
+  "release": "14",
+  "date": "2019/08/27 15:36:02",
+  "publisher": "CrazyMax",
+  "url": "https://github.com/portapps/teamspeak-client-portable",
+  "portapps_version": "1.26.0"
+}
